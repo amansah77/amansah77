@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Aman Kumar Sah!
 
-🎓 ECIE student at IOE Purwanchal Campus  
+🎓 Electronics,Communication and Information Engineering student at IOE Purwanchal Campus  
 📍 Robotics & Tech Enthusiast | EXCESS Nepal Vice President  
 🛠️ Event Coordinator | Hackathon Mentor | Tech Community Builder
 
@@ -19,7 +19,7 @@
 ---
 
 ## 🌱 I’m currently learning
--Deep Learning
+- Deep Learning
 - IoT-based automation with NodeMCU
 
 ---
